@@ -76,12 +76,3 @@ The dashboard is structured into **four main pages**, each with a distinct analy
 5. To refresh with new data (if connected), go to **Home > Refresh**.
 
 ---
-
-## 🖼️ Screenshots
-
-> *Coming soon – Add screenshots of each report page here for visual reference.*
-
-You can upload `.png` or `.jpg` images into the repository and embed them here like this:
-
-```markdown
-![Executive Dashboard](images/executive_dashboard.png)
