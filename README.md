@@ -2,6 +2,8 @@
 
 Welcome to my Power BI dashboard project designed for a manufacturing company specializing in **cycling equipment**. This interactive report was built to empower the executive and analytics teams with actionable insights, track performance KPIs, and support data-driven decisions across product lines and regions.
 
+[Sales Performance Deep Dive Dashboard](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/Sales%20Performance%20Deep%20Dive%20Dashboard%20(Power%20BI%20Only).pbix)
+
 > 🧠 **Objective**: To enable the management team to monitor revenue trends, customer segmentation, return rates, and regional performance through a clean, intuitive Power BI interface.
 
 ---
@@ -32,8 +34,6 @@ The dashboard is structured into **four main pages**, each with a distinct analy
 - Customer segmentation by occupation and income
 - Average revenue per customer, trends over time
 - Donut charts and slicers for dynamic filtering
-
-  [Sales Performance Deep Dive Dashboard](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/Sales%20Performance%20Deep%20Dive%20Dashboard%20(Power%20BI%20Only).pbix)
 
 ---
 
