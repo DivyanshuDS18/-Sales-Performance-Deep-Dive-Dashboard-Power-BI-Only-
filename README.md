@@ -33,6 +33,8 @@ The dashboard is structured into **four main pages**, each with a distinct analy
 - Average revenue per customer, trends over time
 - Donut charts and slicers for dynamic filtering
 
+  [Sales Performance Deep Dive Dashboard]()
+
 ---
 
 ## 🛠️ Tools & Technologies
