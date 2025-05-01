@@ -50,7 +50,19 @@ The dashboard is structured into **four main pages**, each with a distinct analy
 
 ## 🧱 Project Structure
 
-📁 Data Sources │ ├── AdventureWorks Sales Data 2020/2021/2022 │ ├── Calendar Lookup │ ├── Customer Lookup │ ├── Product Categories / Subcategories Lookup │ ├── Product Lookup │ ├── Territory Lookup │ └── Returns Data 📊 Power BI File │ └── Sales Performance Deep Dive Dashboard (Power BI Only).pbix
+| **Component**     | **Details**                                              |
+|-------------------|----------------------------------------------------------|
+| **📁 Data Sources** |                                                          |
+|                   | ├── AdventureWorks Sales Data 2020 / 2021 / 2022         |
+|                   | ├── Calendar Lookup                                       |
+|                   | ├── Customer Lookup                                       |
+|                   | ├── Product Categories / Subcategories Lookup            |
+|                   | ├── Product Lookup                                        |
+|                   | ├── Territory Lookup                                      |
+|                   | └── Returns Data                                          |
+| **📊 Power BI File** |                                                          |
+|                   | └── Sales Performance Deep Dive Dashboard (.pbix only)    |
+
 
 
 ---
