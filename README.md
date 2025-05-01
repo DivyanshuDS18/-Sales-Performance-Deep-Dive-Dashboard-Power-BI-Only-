@@ -53,15 +53,15 @@ The dashboard is structured into **four main pages**, each with a distinct analy
 | **Component**     | **Details**                                              |
 |-------------------|----------------------------------------------------------|
 | **📁 Data Sources** |                                                          |
-|                   | ├── AdventureWorks Sales Data 2020 / 2021 / 2022         |
-|                   | ├── Calendar Lookup                                       |
-|                   | ├── Customer Lookup                                       |
-|                   | ├── Product Categories / Subcategories Lookup            |
-|                   | ├── Product Lookup                                        |
-|                   | ├── Territory Lookup                                      |
-|                   | └── Returns Data                                          |
+|                   | ├── AdventureWorks [Sales Data 2020](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Sales%20Data%202020.csv) / [Sales Data 2021](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Sales%20Data%202021.csv)/ [Sales Data 2022](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Sales%20Data%202022.csv)        |
+|                   | ├── [Calendar Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Calendar%20Lookup.csv)                                      |
+|                   | ├── [Customer Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Customer%20Lookup.csv)                                       |
+|                   | ├── [Product Categories](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Product%20Categories%20Lookup.csv) / [Subcategories Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Product%20Subcategories%20Lookup.csv)            |
+|                   | ├── [Product Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Product%20Lookup.csv)                                        |
+|                   | ├── [Territory Lookup](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Territory%20Lookup.csv)                                      |
+|                   | └── [Returns Data](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/AdventureWorks%20Returns%20Data.csv)                                          |
 | **📊 Power BI File** |                                                          |
-|                   | └── Sales Performance Deep Dive Dashboard (.pbix only)    |
+|                   | └── [Sales Performance Deep Dive Dashboard](https://github.com/DivyanshuDS18/-Sales-Performance-Deep-Dive-Dashboard-Power-BI-Only-/blob/main/Sales%20Performance%20Deep%20Dive%20Dashboard%20(Power%20BI%20Only).pbix)    |
 
 
 
